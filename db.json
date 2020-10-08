@@ -1,1 +1,18 @@
-{}
+{
+    "people": [
+        {
+            "id": 1,
+            "name": "Ben",
+            "email": "ben@bendb.be"
+        }
+    ],
+    "personlinks": [
+        {
+            "id": 1,
+            "isExpired": false,
+            "url": "http://localhost:4200/questionaire/",
+            "personId": 1,
+            "code": "blabla"
+        }
+    ]
+}
